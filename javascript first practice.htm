@@ -1,0 +1,24 @@
+﻿<!doctype html>
+<html>
+<body>
+
+
+<img id="pic" src="road.jpg" width="800">
+<p>
+<button type="button" onclick="pick(0)" style="margin:50px">LAKE</button>
+<button type="button" onclick="pick(1)">ROAD</button>
+</p>
+
+<script>
+function pick(sn){
+    var pic;
+    if(sn==0){pic="lake.jpg"
+    }else{
+    pic="road.jpg"
+    }
+    document.getElementById("pic").src=pic;
+}
+</script>
+
+</body>
+</html>

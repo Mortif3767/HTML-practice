@@ -1,0 +1,35 @@
+﻿body{background-color:	#F0FFFF}
+
+h2{ font-family:宋体;
+    text-align:center;  
+}
+
+#p1{border: 1px solid pink;
+background-color:	#E0FFFF;
+      text-align:center;
+      margin:20px;
+      padding:10px;
+font-family:楷体;
+}
+#p2{ border: 1px solid cyan;
+background-color:#FFF0F5;
+      text-align:center;
+      margin:20px;
+      padding:10px
+}
+
+#p3 { border: 1px solid cyan;
+background-color:#FFF0F5;
+      text-align:center;
+      margin:20px;
+      padding:10px
+}
+
+p.a{border: 1px solid pink;
+background-color:	#E0FFFF;
+      text-align:center;
+      margin:20px;
+      padding:10px
+}
+
+p{font-family:宋体;}
